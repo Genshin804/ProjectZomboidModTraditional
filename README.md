@@ -1,0 +1,2 @@
+# ProjectZomboidModTraditional
+PZ繁體模組翻譯
